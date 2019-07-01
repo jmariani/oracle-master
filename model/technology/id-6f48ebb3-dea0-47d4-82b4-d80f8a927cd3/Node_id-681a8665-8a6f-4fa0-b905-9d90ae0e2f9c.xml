@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZFS Storage"
+    id="id-681a8665-8a6f-4fa0-b905-9d90ae0e2f9c">
+  <properties
+      key="icon"
+      value="/Oracle-Master/ZFS Storage.png"/>
+</archimate:Node>

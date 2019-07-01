@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Engineered Systems"
     id="id-de314527-2013-4fd2-86ab-371010cacf82">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -34,5 +34,53 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-32f245c1-9027-4161-9829-49c4d68f2d8c.xml#id-32f245c1-9027-4161-9829-49c4d68f2d8c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-361a4ae5-df41-4bd6-99ab-d608a4e98787"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#8badbe"
+      type="1">
+    <bounds
+        x="636"
+        y="12"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-56b758f6-b165-45d0-b875-0e0b525c04c7.xml#id-56b758f6-b165-45d0-b875-0e0b525c04c7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-be8b74f9-b42e-4747-9927-f2a86df0982a"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#8badbe"
+      type="1">
+    <bounds
+        x="12"
+        y="216"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-c2d208bd-c633-4e32-915f-48791d4155a4.xml#id-c2d208bd-c633-4e32-915f-48791d4155a4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-18f74a7d-43e7-49c5-a628-2ba805dace2f"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#8badbe"
+      type="1">
+    <bounds
+        x="324"
+        y="216"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-681a8665-8a6f-4fa0-b905-9d90ae0e2f9c.xml#id-681a8665-8a6f-4fa0-b905-9d90ae0e2f9c"/>
   </children>
 </archimate:ArchimateDiagramModel>

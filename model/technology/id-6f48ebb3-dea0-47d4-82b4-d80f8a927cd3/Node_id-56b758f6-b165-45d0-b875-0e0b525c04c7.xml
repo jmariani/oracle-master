@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server"
+    id="id-56b758f6-b165-45d0-b875-0e0b525c04c7">
+  <properties
+      key="icon"
+      value="/Oracle-Master/Server.png"/>
+</archimate:Node>
