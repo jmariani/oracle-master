@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kubernetes Container Engine"
+    id="id-cac55b0d-379c-408a-ab42-409b099b1069">
+  <properties
+      key="icon"
+      value="/Oracle-Master/Kubernetes Container Engine.png"/>
+</archimate:Node>
