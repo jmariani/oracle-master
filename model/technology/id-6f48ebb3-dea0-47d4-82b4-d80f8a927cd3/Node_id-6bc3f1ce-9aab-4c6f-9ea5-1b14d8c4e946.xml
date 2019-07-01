@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exadata"
+    id="id-6bc3f1ce-9aab-4c6f-9ea5-1b14d8c4e946">
+  <properties
+      key="icon"
+      value="/Oracle-Master/Exadata.png"/>
+</archimate:Node>
