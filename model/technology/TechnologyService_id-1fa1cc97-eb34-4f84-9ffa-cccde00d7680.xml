@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS Services"
+    id="id-1fa1cc97-eb34-4f84-9ffa-cccde00d7680">
+  <properties
+      key="icon"
+      value="/Oracle-Master/DNS Services.png"/>
+</archimate:TechnologyService>

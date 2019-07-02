@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="IaaS"
     id="id-8e2c08df-ec63-4d34-b53a-0608b6dbf83b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -12,12 +12,44 @@
       fillColor="#922846"
       type="1">
     <bounds
-        x="12"
+        x="324"
         y="12"
         width="300"
         height="192"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-cac55b0d-379c-408a-ab42-409b099b1069.xml#id-cac55b0d-379c-408a-ab42-409b099b1069"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-53dae73f-6a84-4f43-9005-628e5c846f9d"
+      fontColor="#feffff"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#922846">
+    <bounds
+        x="636"
+        y="12"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-04114f17-6e0b-4ad4-80bf-20b43e22feb1.xml#id-04114f17-6e0b-4ad4-80bf-20b43e22feb1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-494ae83c-e0f5-42fd-821c-3f7ca21048fd"
+      fontColor="#feffff"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#922846">
+    <bounds
+        x="12"
+        y="12"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-1fa1cc97-eb34-4f84-9ffa-cccde00d7680.xml#id-1fa1cc97-eb34-4f84-9ffa-cccde00d7680"/>
   </children>
 </archimate:ArchimateDiagramModel>
