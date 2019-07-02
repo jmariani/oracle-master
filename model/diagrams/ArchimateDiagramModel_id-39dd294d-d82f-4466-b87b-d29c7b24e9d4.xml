@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On Premise Apps"
+    id="id-39dd294d-d82f-4466-b87b-d29c7b24e9d4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fb84705d-e6ca-410c-9f8a-3e951a185349"
+      fontColor="#feffff"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#377a93"
+      type="1">
+    <bounds
+        x="12"
+        y="12"
+        width="300"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-d032bb93-bf48-4be6-94cd-7b90cfff386b.xml#id-d032bb93-bf48-4be6-94cd-7b90cfff386b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eBusiness Suite on Cloud"
+    id="id-d032bb93-bf48-4be6-94cd-7b90cfff386b">
+  <properties
+      key="icon"
+      value="/Oracle-Master/EBS On Cloud.png"/>
+</archimate:ApplicationComponent>
